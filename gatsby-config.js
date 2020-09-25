@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/portfolio",
   plugins: [
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
@@ -22,8 +23,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Simplefolio`,
-        short_name: `Simplefolio`,
+        name: `Bhagya portfolio`,
+        short_name: `Bhagya`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#02aab0`,
