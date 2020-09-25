@@ -2,16 +2,16 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
+  title: 'Bhagya portfolio', // e.g: 'Name | Developer'
   lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  description: 'Welcome to my portfolio', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
   title: 'Hi, My name is',
   name: 'Bhagyalakshmi Kavati',
-  subtitle: 'I am looking Entry Level Front End Devloper opportunities',
+  subtitle: 'I am looking for Entry Level Front End Devloper opportunities',
   cta: 'Learn more',
 };
 
@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'Enthusiastic, dedicated and result oriented computer science engineer, Seeking the position for an entry level Front End/UI/Web developer opportunities to apply the knowledge, build web applications, learn new skills and grow along with organization.',
   paragraphTwo: 'Around 2 years of experience in developing interactive, responsive, single page and accessible rich user interface web applications with attention to details and cross browser support using HTML5, JavaScript, ReactJS and Angular.',
   paragraphThree: 'Proficient in Web Development, Algorithms and Data Structures, Agile Development and Software Development. Highly organized and motivated individual with strong communication and interpersonal skills.',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://github.com/kavatibhagya/portfolio/blob/master/src/mock/resume.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
