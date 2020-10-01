@@ -46,7 +46,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'geeqkwiz.jpg',
+    img: 'geeqkwiz.png',
     title: 'Front End Quiz web app',
     info: 'This is a technical quiz app which has different categories to select and present with a set of questions and multiple choices. After the test completion score card will be shown to the user with the results sections wise.',
     info2: 'Currently it is a work in progress state. Planning to complete and launch it soon in a straight domain.',
@@ -80,11 +80,19 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'madikonda.jpeg',
+    img: 'madikonda.png',
     title: 'Madikonda',
     info: 'This is a static website of my hometown. Which showcases latest updates happening in town, history and other news articles.',
     url: 'http://madikonda.herokuapp.com/',
     repo: 'https://github.com/kavatibhagya/madikonda', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'sid.png',
+    title: 'Sid Sriram',
+    info: 'This is also another static website to show the portfolio of a famous Indian singer Sid sriram. His songs and albums.',
+    url: 'https://sidsriram.now.sh/',
+    repo: 'https://github.com/kavatibhagya/sidsriram', // if no repo, the button will not show up
   },
 ];
 
