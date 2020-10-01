@@ -55,11 +55,36 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'random.png',
+    title: 'Random users',
+    info: 'This is a simple ReactJS responsive web page to show the random users and filter based on the gender',
+    info2: 'I did this basically to play around with React hooks like useState and useEffect',
+    url: 'https://2r4sy.csb.app/',
+    repo: 'https://github.com/kavatibhagya/react-random-user', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'github.jpeg',
     title: 'Github users',
-    info: 'This is a simple responsive web page to show case the random github users',
+    info: 'This is a another simple responsive web page to showcase the random github users',
     url: 'https://gitrandomusers.now.sh/',
     repo: 'https://github.com/kavatibhagya/github-users', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'mahadev.png',
+    title: 'Mahadev Dental',
+    info: 'This is a dental hospital website. Which showcase the Services, Contact and History details of the hospital. And also it gives the testimonials of visited patients, Treatments and other offers.',
+    url: 'http://mahadevdental.herokuapp.com/',
+    repo: 'https://github.com/kavatibhagya/mahadevdental', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'madikonda.jpeg',
+    title: 'Madikonda',
+    info: 'This is a static website of my hometown. Which showcases latest updates happening in town, history and other news articles.',
+    url: 'http://madikonda.herokuapp.com/',
+    repo: 'https://github.com/kavatibhagya/madikonda', // if no repo, the button will not show up
   },
 ];
 
