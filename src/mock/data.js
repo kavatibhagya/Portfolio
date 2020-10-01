@@ -37,7 +37,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'cloudchip.jpg',
+    img: 'cloudchip.jpeg',
     title: 'UI Developer Intern - Cloudchip Technologies - Hyderabad, India',
     info: 'Cloudchip provides a ready to use scalable IoT cloud infrastructure for connecting the Internet of Things. Developed complete user management, attendance and performance tracking system from the UI perspective. Closely worked with business system analysts to understand the requirements to ensure that the right set of UI modules were built.',
     info2: 'Utilized HTML5, CSS, JavaScript, JQuery, and AJAX to create a user login system that allowed customers to login. Developed the complete layout of the pages of websites using CSS for multiple browsers. Developed a single page, mobile-first, cross-device web application for real-time location sharing utilizing AngularJS, JavaScript API. Created AngularJS controllers, services and used AngularJS filters for filter functionality in the search box. Utilized AngularJS inbuilt directives and also used custom directives for the ones that are not available. Worked closely with the SQA team in fixing the reported bugs/defects and checking cross platform compatibility. Technologies: HTML5, JavaScript, CSS3, AngularJS, Bootstrap, jQuery, AJAX, Java and JSON',
@@ -51,7 +51,15 @@ export const projectsData = [
     info: 'This is a technical quiz app which has different categories to select and present with a set of questions and multiple choices. After the test completion score card will be shown to the user with the results sections wise.',
     info2: 'Currently it is a work in progress state. Planning to complete and launch it soon in a straight domain.',
     url: 'https://geeqkwiz.web.app/',
-    repo: 'https://geeqkwiz.web.app/', // if no repo, the button will not show up
+    repo: 'https://github.com/kavatibhagya/geeqkwiz', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'github.jpeg',
+    title: 'Github users',
+    info: 'This is a simple responsive web page to show case the random github users',
+    url: 'https://gitrandomusers.now.sh/',
+    repo: 'https://github.com/kavatibhagya/github-users', // if no repo, the button will not show up
   },
 ];
 
