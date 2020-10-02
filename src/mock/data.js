@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'upwork.png',
+    img: 'upwork.jpg',
     title: 'Front End Developer - Freelance - Upwork - San Jose, CA',
     info: 'Worked on multiple projects to develop the web pages from the scratch to customizing the existing pages and fixing the issues according to the contracts.',
     info2: 'gogetemsports.com is an e-commerce website for sports gear, fitness clothing and electronic products. Developed a react form to collect the user input along with the validation and posted data back to the server. Implemented the advanced filters and search components for the various products with different criterias. Updated the navigation menu, landing page grid view and sub menu styles with the latest styles using Bootstrap. Modified the product description page to show the tags for various attributes and also to show the similar, also purchased and recommended products using the tag and carousel component.',
@@ -37,7 +37,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'cloudchip.jpeg',
+    img: 'cloudchip.jpg',
     title: 'UI Developer Intern - Cloudchip Technologies - Hyderabad, India',
     info: 'Cloudchip provides a ready to use scalable IoT cloud infrastructure for connecting the Internet of Things. Developed complete user management, attendance and performance tracking system from the UI perspective. Closely worked with business system analysts to understand the requirements to ensure that the right set of UI modules were built.',
     info2: 'Utilized HTML5, CSS, JavaScript, JQuery, and AJAX to create a user login system that allowed customers to login. Developed the complete layout of the pages of websites using CSS for multiple browsers. Developed a single page, mobile-first, cross-device web application for real-time location sharing utilizing AngularJS, JavaScript API. Created AngularJS controllers, services and used AngularJS filters for filter functionality in the search box. Utilized AngularJS inbuilt directives and also used custom directives for the ones that are not available. Worked closely with the SQA team in fixing the reported bugs/defects and checking cross platform compatibility. Technologies: HTML5, JavaScript, CSS3, AngularJS, Bootstrap, jQuery, AJAX, Java and JSON',
@@ -55,7 +55,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'random.png',
+    img: 'random.jpg',
     title: 'Random users',
     info: 'This is a simple ReactJS responsive web page to show the random users and filter based on the gender',
     info2: 'I did this basically to play around with React hooks like useState and useEffect',
@@ -64,7 +64,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'github.jpeg',
+    img: 'github.jpg',
     title: 'Github users',
     info: 'This is a another simple responsive web page to showcase the random github users',
     url: 'https://gitrandomusers.now.sh/',
@@ -72,7 +72,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'mahadev.png',
+    img: 'mahadev.jpg',
     title: 'Mahadev Dental',
     info: 'This is a dental hospital website. Which showcase the Services, Contact and History details of the hospital. And also it gives the testimonials of visited patients, Treatments and other offers.',
     url: 'http://mahadevdental.herokuapp.com/',
@@ -80,7 +80,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'madikonda.png',
+    img: 'madikonda.jpg',
     title: 'Madikonda',
     info: 'This is a static website of my hometown. Which showcases latest updates happening in town, history and other news articles.',
     url: 'http://madikonda.herokuapp.com/',
@@ -88,7 +88,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'sid.png',
+    img: 'sid.jpg',
     title: 'Sid Sriram',
     info: 'This is also another static website to show the portfolio of a famous Indian singer Sid sriram. His songs and albums.',
     url: 'https://sidsriram.now.sh/',
